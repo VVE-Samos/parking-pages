@@ -49,11 +49,13 @@ The iOS app will ask consent during the use of the application. The following co
 When you've given your consent(s) you will see the screen below that will ask you to scan a QR code. This QR Code is provided by Munnik and functions as a digital key that will give you access to your platform. When you have multiple plaforms, you've been given multiple QR Codes.
 Start by adding the first key by pointing your camera to the QR Code. When it's recognised a platform number will appear at the bottom of the screen:
 
-<img src="img/QRCode.png" width=216 height=480 /> 
+<img src="img/QRCode.png" width=216 height=480 /> <img src="img/MainScreen.png" width=216 height=480 /> <img src="img/AppleAllowLocation.png" width=216 height=480 /> 
 
 After adding the QR Code, the platforms are added to the main screen. Optionally on iOS consent is requested to access the location. Grant access to the location during use of the app (And then, in the settings, change it to always, or wait for the prompt after a few days to always give access).
 
 ## Controlling the speed gate
+
+![Speedgate](img/speedgate.png)
 
 To control the speedgate use the functions below:
 
