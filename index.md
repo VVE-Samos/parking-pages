@@ -76,12 +76,18 @@ To control the platform use the functions below:
 Adding another platform is identical to adding the first platform. You will see the screen below that will ask you to scan a QR code. 
 Start by adding the first key by pointing your camera to the QR Code. When it's recognised a platform number will appear at the bottom of the screen:
 
-<img src="img/QRCode.png" width=216 height=480 /> <img src="img/MainScreen.png" width=216 height=480 /> <img src="img/AppleAllowLocation.png" width=216 height=480 /> 
+<img src="img/QRCode.png" width=216 height=480 />
 
 After adding the QR Code, the platform is added to the main screen.
 
 ## Set the default platform
 
+To set the default platform, you can use the <img src="img/heart.png" width=32  /> symbol on the platform card. This symbol is only visible when you've added more than one platform to the app.
+
 ## Sharing your key
 
+To share your key, you can use the <img src="img/heart.png" width=32  /> symbol on the platform card. This will show a screen with the QR Code of the platform, that can be scanned with the camera of another parking app.
+
 ## Controlling the parking garage from the home screen
+
+
