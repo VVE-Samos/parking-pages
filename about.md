@@ -1,3 +1,5 @@
+# Nederlands
+
 Deze app wordt gebruikt om ons parkeersysteem in de parkeergarage te bedienen. Het is niet bedoeld voor openbaar gebruik. Als u een platformsleutel heeft ontvangen van [Munnik VVE Beheer](https://munnikvvebeheer.nl/), kunt u doorgaan met de installatie van de app. Als u dat niet heeft, kunt u een sleutel aanvragen door contact op te nemen met Munnik en een bewijs van eigendom of huur van een parkeerplaats te overleggen.
 
 ## Installatie
