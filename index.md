@@ -44,7 +44,7 @@ The iOS app will ask consent during the use of the application. The following co
 
 <img src="img/AppleAllowLocation.png" width=216 height=480 /> <img src="img/AppleLocationPermission.png" width=216 height=480 /> <img src="img/AppleAllowVideo.png" width=216 height=480 /> <img src="img/AppleAllowPushNotification.png" width=216 height=480 />
 
-### Adding your first platform + speedgate
+## Adding your first platform + speedgate
 
 When you've given your consent(s) you will see the screen below that will ask you to scan a QR code. This QR Code is provided by Munnik and functions as a digital key that will give you access to your platform. When you have multiple plaforms, you've been given multiple QR Codes.
 Start by adding the first key by pointing your camera to the QR Code. When it's recognised a platform number will appear at the bottom of the screen:
@@ -52,3 +52,20 @@ Start by adding the first key by pointing your camera to the QR Code. When it's 
 <img src="img/QRCode.png" width=216 height=480 /> 
 
 After adding the QR Code, the platforms are added to the main screen. Optionally on iOS consent is requested to access the location. Grant access to the location during use of the app (And then, in the settings, change it to always, or wait for the prompt after a few days to always give access).
+
+## Controlling the speed gate
+
+To control the speedgate use the functions below:
+
+* The ![Enter](img/enter.png) symbol on the speedgate card will open the speedgate to enter the garage (and control the traffic light accordingly)
+* The ![Exit](img/exit.png) symbol on the speedgate card will open the speedgate to exit the garage (and control the traffic light accordingly)
+
+## Controlling your platform
+
+## Adding another plaform
+
+## Set the default platform
+
+## Sharing your key
+
+## Controlling the parking garage from the home screen
