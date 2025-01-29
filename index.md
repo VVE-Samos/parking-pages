@@ -1,5 +1,3 @@
-﻿# VVE Samos Parking App
-
 This app is used to control our parking system in the parking garage. It's not intended for public use.
 If you have received a platform key from [Munnik VVE Beheer](https://munnikvvebeheer.nl/) you can proceed with
 the installation of the app. If you haven't, you can request a key by contacting Munnik and providing proof of
