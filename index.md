@@ -25,11 +25,11 @@ At first startup, the android app will ask consent for a number of permissions. 
 * The application needs permission to use the camera to scan the platform key with the camera.
   This permission needs to be set to "While using the app".
 
-<img src="img/AndroidGiveConsent.png" width=216 height=480> <img src="img/AndroidAllowLocation.png" width=216 height=480> <img src="img/AndroidLocationPermission.png" width=216 height=480> <img src="img/AndroidAllowNearbyDevices.png" width=216 height=480> <img src="img/AndroidAllowVideo.png" width=216 height=480>
+<img src="img/AndroidGiveConsent.png" width=216 height=480 /> <img src="img/AndroidAllowLocation.png" width=216 height=480 /> <img src="img/AndroidLocationPermission.png" width=216 height=480 /> <img src="img/AndroidAllowNearbyDevices.png" width=216 height=480 /> <img src="img/AndroidAllowVideo.png" width=216 height=480 />
 
 The application can optionally send push notifications, when activating the option in the settings menu. Another consent will be requested based on this:
 
-<img src="img/AndroidAllowPushNotification.png" width=216 height=480>
+<img src="img/AndroidAllowPushNotification.png" width=216 height=480 />
 
 ### iOS
 
@@ -42,4 +42,13 @@ The iOS app will ask consent during the use of the application. The following co
 * The application can optionally send push notifications, when activating the option in the settings menu.
   This permission needs to be set to "Allow.".
 
-<img src="img/AppleAllowLocation.png" width=216 height=480> <img src="img/AppleLocationPermission.png" width=216 height=480> <img src="img/AppleAllowVideo.png" width=216 height=480> <img src="img/AppleAllowPushNotification.png" width=216 height=480>
+<img src="img/AppleAllowLocation.png" width=216 height=480 /> <img src="img/AppleLocationPermission.png" width=216 height=480 /> <img src="img/AppleAllowVideo.png" width=216 height=480 /> <img src="img/AppleAllowPushNotification.png" width=216 height=480 />
+
+### Adding your first platform + speedgate
+
+When you've given your consent(s) you will see the screen below that will ask you to scan a QR code. This QR Code is provided by Munnik and functions as a digital key that will give you access to your platform. When you have multiple plaforms, you've been given multiple QR Codes.
+Start by adding the first key by pointing your camera to the QR Code. When it's recognised a platform number will appear at the bottom of the screen:
+
+<img src="img/QRCode.png" width=216 height=480 /> 
+
+After adding the QR Code, the platforms are added to the main screen. Optionally on iOS consent is requested to access the location. Grant access to the location during use of the app (And then, in the settings, change it to always, or wait for the prompt after a few days to always give access).
