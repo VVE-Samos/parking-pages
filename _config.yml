@@ -29,7 +29,7 @@ remote_theme: jekyll/minima
 # in order as they should show up.
 
 header_pages:
-  - nederlands.md
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
