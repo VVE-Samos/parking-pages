@@ -86,8 +86,11 @@ To set the default platform, you can use the <img src="img/heart.png" width=32  
 
 ## Sharing your key
 
-To share your key, you can use the <img src="img/heart.png" width=32  /> symbol on the platform card. This will show a screen with the QR Code of the platform, that can be scanned with the camera of another parking app.
+To share your key, you can use the <img src="img/share.png" width=32  /> symbol on the platform card. This will show a screen with the QR Code of the platform, that can be scanned with the camera of another parking app.
 
 ## Controlling the parking garage from the home screen
 
+You can save time operating your default platform, by long pressing the app icon on the home screen (both iOS and Android). This will open a quick access menu that can operate the default platform (with only one platform, that one is the default automatically.
+
+<img src="img/quickaccess.png" width=216 height=480 />
 
