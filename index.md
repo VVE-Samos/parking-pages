@@ -53,17 +53,24 @@ Start by adding the first key by pointing your camera to the QR Code. When it's 
 
 After adding the QR Code, the platforms are added to the main screen. Optionally on iOS consent is requested to access the location. Grant access to the location during use of the app (And then, in the settings, change it to always, or wait for the prompt after a few days to always give access).
 
-## Controlling the speed gate
+## Controlling the speedgate
 
-![Speedgate](img/speedgate.png)
+<img src="img/speedgate.png" width=216  />
 
 To control the speedgate use the functions below:
 
-* The ![Enter](img/enter.png) symbol on the speedgate card will open the speedgate to enter the garage (and control the traffic light accordingly)
-* The ![Exit](img/exit.png) symbol on the speedgate card will open the speedgate to exit the garage (and control the traffic light accordingly)
+* The <img src="img/enter.png" width=32  /> symbol on the speedgate card will open the speedgate to enter the garage (and control the traffic light accordingly)
+* The <img src="img/exit.png" width=32  /> symbol on the speedgate card will open the speedgate to exit the garage (and control the traffic light accordingly)
 
 ## Controlling your platform
 
+<img src="img/platform.png" width=216  />
+
+To control the platform use the functions below:
+
+* The <img src="img/open.png" width=32  /> symbol on the platform card will call the platform. It's required to send this command when you are in proximity of the parking garage as the platforms will move, and other users will have to wait until your command is finished.
+* The <img src="img/close.png" width=32  /> symbol on the platform card will close the doors. It's required to be in the parking garage to send this command, as your proximity is detected using Bluetooth LE beacons.
+  
 ## Adding another plaform
 
 ## Set the default platform
