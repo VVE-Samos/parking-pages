@@ -42,8 +42,4 @@ The iOS app will ask consent during the use of the application. The following co
 * The application can optionally send push notifications, when activating the option in the settings menu.
   This permission needs to be set to "Allow.".
 
-<img src="img/AppleAllowLocation.png" width=216 height=480> <img src="img/AppleLocationPermission.png" width=216 height=480> <img src="img/AppleAllowVideo.png" width=216 height=480>
-
-
-
-<img src="img/AppleAllowPushNotification.png" width=216 height=480>
+<img src="img/AppleAllowLocation.png" width=216 height=480> <img src="img/AppleLocationPermission.png" width=216 height=480> <img src="img/AppleAllowVideo.png" width=216 height=480> <img src="img/AppleAllowPushNotification.png" width=216 height=480>
