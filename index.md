@@ -35,15 +35,11 @@ The application can optionally send push notifications, when activating the opti
 
 The iOS app will ask consent during the use of the application. The following consents will be requested during operation.
 
+* The application needs permission to use the camera to scan the platform key with the camera.
+  This permission needs to be set to "While using the app".
 * The application needs location permission to place a geofence around the parking garage to automatically send a notification to open the default parking spot when you are close to the parking garage.
   This permission needs to be set to "While using the app" and then to "Allow all the time.".
 * The application can optionally send push notifications, when activating the option in the settings menu.
   This permission needs to be set to "Allow.".
-* The application needs permission to use the camera to scan the platform key with the camera.
-  This permission needs to be set to "While using the app".
 
-<img src="img/AppleGiveConsent.png" width=216 height=480> <img src="img/AppleAllowLocation.png" width=216 height=480> <img src="img/AppleLocationPermission.png" width=216 height=480> <img src="img/AppleAllowVideo.png" width=216 height=480>
-
-
-
-<img src="img/AppleAllowPushNotification.png" width=216 height=480>
+<img src="img/AppleAllowLocation.png" width=216 height=480> <img src="img/AppleLocationPermission.png" width=216 height=480> <img src="img/AppleAllowVideo.png" width=216 height=480> <img src="img/AppleAllowPushNotification.png" width=216 height=480>
