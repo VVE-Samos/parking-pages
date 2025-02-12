@@ -2,7 +2,7 @@
 title: Nederlands
 ---
 
-Deze app wordt gebruikt om ons parkeersysteem in de parkeergarage te bedienen. Het is niet bedoeld voor openbaar gebruik. Als u een platformsleutel heeft ontvangen van [Munnik VVE Beheer](https://munnikvvebeheer.nl/), kunt u doorgaan met de installatie van de app. Als u dat niet heeft, kunt u een sleutel aanvragen door contact op te nemen met Munnik en een bewijs van eigendom of huur van een parkeerplaats te overleggen.
+Deze app wordt gebruikt om ons parkeersysteem in de parkeergarage te bedienen. Het is niet bedoeld voor openbaar gebruik. Als je een platform sleutel (QR-Code) hebt ontvangen, nadat je je hebt gemeld in het [Munnik VVE Beheer forum](https://login.convect.nl/?thema=07ef3b48dc7f47759847727ed1b69a7d), kun je verder gaan met de installatie van de app. Zo niet, dan kun je een sleutel aanvragen door in te loggen op convect, naar “gesprekken” te gaan en een bewijs van eigendom of huur van een parkeerplaats te overleggen in het daarvoor bestemde forum.
 
 ## Installatie
 
